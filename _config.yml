@@ -7,7 +7,7 @@
 
 # Site settings
 title: "Lee's Blog"
-email: no@example.com
+email: 
 description: "Lee's blog."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://llawlor.github.io" # the base hostname & protocol for your site
