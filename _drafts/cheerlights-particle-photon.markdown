@@ -75,3 +75,5 @@ You can now cut out the bottom of the snowman, and push the assembled CheerLight
 
 You can [control CheerLights](http://cheerlights.com/about/){:target="_blank"} by sending a tweet that includes *#cheerlights* and the color name.
 Valid color names are red, green, blue, cyan, white, oldlace, purple, magenta, yellow, orange, and pink.
+
+Special thanks to [@scharler](https://twitter.com/scharler){:target="_blank"} and [@AnkitTheCoder](https://twitter.com/AnkitTheCoder){:target="_blank"} for their assistance with this project.
