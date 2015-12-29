@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "CheerLights Tutorial: Particle Photon and BlinkM RGB LED"
 ---
 
