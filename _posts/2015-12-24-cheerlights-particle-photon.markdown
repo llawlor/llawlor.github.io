@@ -1,6 +1,11 @@
 ---
 layout: post
 comments: true
+tags:
+- IoT
+- CheerLights
+- ThingSpeak
+- BlinkM
 title:  "CheerLights Tutorial: Particle Photon and BlinkM RGB LED"
 ---
 
