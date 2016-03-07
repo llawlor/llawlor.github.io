@@ -58,3 +58,17 @@ PrivateTmp=false
 [Install]
 WantedBy=multi-user.target
 </pre>
+
+<br><br>
+
+# Update
+
+Alternatively, as noted by Hongli Lai (the creator of Phusion Passenger) in the comments below, you can use the Phusion Passenger directive [passenger_instance_registry_dir](https://www.phusionpassenger.com/library/config/nginx/reference/#passenger_instance_registry_dir) .  For example, you can add the following line to your Nginx configuration file's http block (assuming you've installed Nginx at /opt/nginx):
+<pre>
+passenger_instance_registry_dir /opt/nginx/tmp;
+</pre>
+
+You'll first have to create the directory if it doesn't exist (`sudo mkdir /opt/nginx/tmp`), and then specify the environment variable when running `sudo passenger-status`, for example:
+<pre>
+PASSENGER_INSTANCE_REGISTRY_DIR=/opt/nginx/tmp sudo -E passenger-status
+</pre>
