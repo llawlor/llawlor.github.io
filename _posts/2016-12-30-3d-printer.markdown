@@ -1,0 +1,30 @@
+---
+layout: post
+comments: true
+tags:
+- "3d printer"
+- Qidi
+- X-one
+title:  "3d Printer: Qidi X-one"
+---
+
+<style type="text/css">
+.custom-code { background-color: #ffe; }
+</style>
+
+I recently purchased the <a href="https://www.amazon.com/TECHNOLOGY-X-ONE-Printer-Structure-Touchscreen/dp/B01HZ4HY9I">Qidi X-one 3d printer</a>, here are some notes.
+
+<br>
+
+<h3>Sensor error or power is not enough</h3>
+When I first tried to print, whenever I tried preheating the base or printing from a file, I would get the error "sensor error or power is not enough".  I eventually figured out that this was due to a loose connection in the cable that connects to the build base.  The white wire was not fully connected, and I just had to push it in a bit more and the error was resolved.
+
+<br>
+
+<h3>Tangled spool</h3>
+On one of my earlier prints, I checked on the printer to find that none of the PLA material was coming out of the nozzle.  The spool had become tangled in the back because I had not fully clipped the white guide tube in place.  Once I fully clipped the guide tube in place this problem was resolved.
+
+<br>
+
+<h3>Final thoughts</h3>
+Printing with the Qidi X-one has been very easy, and the prints have come out great.  I've used both PLA and ABS to print objects, and am overall very happy with the results.
