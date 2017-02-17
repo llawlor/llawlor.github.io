@@ -3,6 +3,7 @@ layout: post
 comments: true
 tags:
 - "Raspberry Pi"
+- "I2C"
 title:  "Setting up I2C on a Raspberry Pi"
 ---
 
