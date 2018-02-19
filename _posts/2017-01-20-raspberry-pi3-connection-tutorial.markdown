@@ -11,7 +11,8 @@ title:  "Setting up a Raspberry Pi without a monitor or keyboard"
 </style>
 
 <ol>
-  <li><a href="https://www.google.com/search?q=install+raspbian+via+sd+card">Install Raspbian onto the Raspberry Pi via an SD card</a></li>
+  <li><a href="https://www.raspberrypi.org/downloads/raspbian/">Install Raspbian onto the Raspberry Pi via an SD card</a></li>
+  <li>Add a blank file named <code>ssh</code> (without an extension) to the boot partition of the Raspberry Pi</li>
   <li>Connect the Raspberry Pi to your router via an ethernet cable, and power up the Raspberry Pi</li>
   <li>Find the Raspberry Pi's IP address via the router's admin interface</li>
   <li>
