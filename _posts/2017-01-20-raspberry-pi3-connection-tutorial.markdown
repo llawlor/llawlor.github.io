@@ -18,6 +18,7 @@ title:  "Setting up a Raspberry Pi without a monitor or keyboard"
   <li>
     Connect to the Raspberry Pi via SSH, for example: <code>ssh pi@192.168.1.187</code> , making sure to use your Raspberry Pi's IP address.  The default username is <em>pi</em>, and the default password is <em>raspberry</em>.
   </li>
+  <li>Update the repositories via <code>sudo apt-get update</code></li>
   <li>Install RDP on the Raspberry Pi via <code>sudo apt-get install xrdp</code></li>
   <li>From your computer, connect to the Raspberry Pi via Remote Desktop Protocol.  Use the same IP address, username, and password as before.</li>
   <li>Using the RDP connection, configure Wi-Fi on the Raspberry Pi</li>
